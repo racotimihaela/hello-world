@@ -1,5 +1,6 @@
 # hello-world
-sa modific ceva si aici
-un exemplu simplu
 
+un exemplu simplu
+Am adaugat
 De aici incep sa fac modificari
+A adaugat si aici
